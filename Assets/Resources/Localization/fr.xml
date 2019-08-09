@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language id="fr">
+  <data id="LABEL_JUMPING_FOX">Le renard brun rapide saute par-dessus le chien paresseux.</data>
+  <data id="SPRITE_FLAG">Flags/fr</data>
+</language>

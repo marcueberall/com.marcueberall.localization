@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language id="it">
+  <data id="LABEL_JUMPING_FOX">La rapida volpe marrone salta sopra il cane pigro.</data>
+  <data id="SPRITE_FLAG">Flags/it</data>
+</language>

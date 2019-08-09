@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language id="en">
+  <data id="LABEL_JUMPING_FOX">The quick brown fox jumps over the lazy dog.</data>
+  <data id="SPRITE_FLAG">Flags/en</data>
+</language>
