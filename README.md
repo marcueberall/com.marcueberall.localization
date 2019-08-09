@@ -18,3 +18,5 @@ To automatically localize a UI component just add the corresponding localization
 ## Credits
 
 This project uses the Excel Data Reader which can be found here https://github.com/ExcelDataReader/ExcelDataReader.
+
+If you use it for whatever you are planning, it would be quite nice to give credits and give a little feedback.
